@@ -17,7 +17,7 @@
 
 2. **下载插件文件**
    ```bash
-   git clone https://github.com/Yunzai-gaokaocountdown-JS/gaokao_countdown.git
+   git clone https://github.com/dr-190/Yunzai-gaokaocountdown-JS/gaokao_countdown.git
    ```
    或者手动将 `gaokao_countdown.js` 放入 `Yunzai-Bot/plugins/gaokao_countdown/` 目录。
 
