@@ -14,6 +14,10 @@
 ```bash
 git clone https://github.com/dr-190/Yunzai-gaokaocountdown-JS.git
 ```
+**镜像下载（国内推荐）**
+```bash
+git clone https://wget.la/https://github.com/dr-190/Yunzai-gaokaocountdown-JS.git
+```
 
 ## 使用方法
 在聊天框发送以下指令之一：
